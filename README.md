@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Web Development Project.
 - 📫 How to reach me : Email : avik.statom2018@gmail.com
 
+📖 Learning new thing is my profession. Let's Go ✅ 
+
 <!---
 Avikextra07/Avikextra07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
