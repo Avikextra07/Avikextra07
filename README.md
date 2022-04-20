@@ -39,3 +39,49 @@ To learn more about me, please visit my personal website: Update Soon
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/Avikextra07)
+
+
+Avikextra07
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Avikextra07&label=Profile%20views&color=0e75b6&style=flat" alt="Avikextra07" /> </p> 
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Avikextra07&theme=algolia&hide_border=false"/>
+</p>
+
+ <p align="center">
+  <a href="https://github.com/Avikextra07">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Avikextra07&show_icons=true&theme=algolia&count_private=true">
+  </a>
+  <a href="https://github.com/Avikextra07">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Avikextra07&layout=compact&theme=algolia&langs_count=6" />
+  </a>
+ </p>
+
+Visit my [Portfolio]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
