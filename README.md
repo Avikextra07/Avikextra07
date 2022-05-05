@@ -22,6 +22,7 @@ To learn more about me, please visit my personal website: Update Soon
 
 <p align="center">
 <a href="mailto:avik.statom2018@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-avik.statom2018@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="mailto:AVIKING"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-https://www.youtube.com/channel/UCSKzc76-zR1aiwslgrq88mA-red?style=flat&logo=youtube"></a>
 </p>
   
 
@@ -37,11 +38,6 @@ To learn more about me, please visit my personal website: Update Soon
      </tr>
    </table>
 </p>
-
-![Profile views](https://gpvc.arturio.dev/Avikextra07)
-
-
-Avikextra07
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Avikextra07&label=Profile%20views&color=0e75b6&style=flat" alt="Avikextra07" /> </p> 
@@ -61,7 +57,6 @@ Avikextra07
   </a>
  </p>
 
-Visit my [Portfolio]()
 
 
 
