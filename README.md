@@ -22,9 +22,7 @@ To learn more about me, please visit my personal website: Update Soon
 
 <p align="center">
 <a href="mailto:avik.statom2018@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-avik.statom2018@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="mailto:AVIKING"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-https://www.youtube.com/channel/UCSKzc76-zR1aiwslgrq88mA-red?style=flat&logo=youtube"></a>
 </p>
-  
 
 <p align="center">
    <table>
@@ -56,27 +54,3 @@ To learn more about me, please visit my personal website: Update Soon
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Avikextra07&layout=compact&theme=algolia&langs_count=6" />
   </a>
  </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
