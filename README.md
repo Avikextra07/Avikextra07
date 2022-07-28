@@ -57,7 +57,7 @@ To learn more about me, please visit my personal website: Update Soon
 <p align="center"><img src="https://raw.githubusercontent.com/mdabusufian/MdAbuSufian/main/assets/header.png"></p>
 
 
-<h1 align="center">Hi, I'm <a href="https://github.com/mdabusufian">Md Abu Sufian<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/Avikextra07">Avik Statom <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 
 
