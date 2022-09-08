@@ -91,7 +91,7 @@ To learn more about me, please visit my personal website: Update Soon
   ---
 
 
-<a href="https://github.com/Avikextra07/github-readme-activity-graph"><img alt="Avik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thesanjida&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Avikextra07/github-readme-activity-graph"><img alt="AviKing's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Avikextra07&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
