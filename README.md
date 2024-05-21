@@ -6,6 +6,8 @@
 
 📖 Learning new thing is my profession. Let's Go ✅ 
 
+
+https://buymeacoffee.com/aviking
 <!---
 Avikextra07/Avikextra07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
